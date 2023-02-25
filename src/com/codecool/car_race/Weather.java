@@ -4,7 +4,7 @@ import com.codecool.car_race.util.RandomHelper;
 
 public class Weather {
 
-    private static final int CHANCE_OF_RAIN = 30;
+    private static final int CHANCE_OF_RAIN = 31;
 
 
     private boolean isRaining = false;
