@@ -26,6 +26,7 @@ public class Truck extends Vehicle{
     }
 
 
+
     private State state = State.OPERATIONAL;
 
     private enum State {
