@@ -18,6 +18,7 @@ public class Truck extends Vehicle{
     }
 
 
+
     private static final int NORMAL_SPEED = 100;
 
     public Truck() {
